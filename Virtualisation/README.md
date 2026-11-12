@@ -3,8 +3,12 @@
 Bienvenue dans mes travaux pratiques de virtualisations
 
 ## Mes projets 
--TP 01 
--TP 02
--TP 03
--TP 04
--TP 05
+-Infrastructure virtuelle pour une PME
+
+-Snapshots et plan de repirse d'une VM critique
+
+-Réseau virtuel isolé
+
+-Migration d'un serveur physique vers une VM 
+
+-Comparatif d'hyperviseurs pour un cahier des charges client
