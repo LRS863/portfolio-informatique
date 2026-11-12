@@ -18,7 +18,6 @@ tags: Virtualisation, P2V, VMware Workstation, E1A
 | **Date des manipulations** | 08/10/2026 |
 |
 
-
 ---
 
 ## 1. Contexte et objectifs
