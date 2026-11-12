@@ -3,8 +3,13 @@
 Bienvenue dans mes travaux pratiques HTML No Code.
 
 ## Mes projets
--TP 01 
--TP 02
--TP 03
--TP 04
--TP 05
+
+-Site vitrine pour un artisan local
+
+-Landing page produit avec un outil No-Code
+
+-Formulaire de contact accessible
+
+- Refonte responsive d'un site existant
+
+- Comparatif Code vs No-Code pour un cahier des charges client
